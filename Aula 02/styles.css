@@ -1,0 +1,78 @@
+body {
+    background-color: #f5f5dc; /* Cor de fundo areia */
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333333;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: #00cc66; /* Verde vibrante */
+}
+
+section {
+    padding: 20px;
+}
+
+section#sobre, section#habilidades, section#projetos, section#contato {
+    background-color: #ffffff; /* Fundo branco para contraste */
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+section h2 {
+    color: #00cc66; /* Verde vibrante */
+    border-bottom: 2px solid #00cc66;
+    padding-bottom: 10px;
+}
+
+footer {
+    background-color: #333333;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    margin: 0;
+    color: #00cc66; /* Verde vibrante */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+.projeto {
+    background-color: #f9f9f9; /* Fundo claro */
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.projeto h3 {
+    color: #00cc66; /* Verde vibrante */
+}
+
+.projeto p {
+    color: #666666;
+}
+
+a {
+    color: #00cc66; /* Verde vibrante */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
