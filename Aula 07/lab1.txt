@@ -1,0 +1,2 @@
+O laboratório 1 durante a aula 07 foi apenas uma introdução ao XAMPP;
+Apontando conceitos básicos e também como configurar o XDebug;
